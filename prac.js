@@ -71,3 +71,16 @@ button.addEventListener("click", function(){
     body.classList.add("hidden")
     another.classList.remove("hidden")
 })
+
+nameb.addEventListener("input", function(){
+    nameb.style.backgroundColor = ""
+    nameb.style.borderColor = ""
+})
+passb.addEventListener("input", function(){
+    passb.style.backgroundColor = ""
+    passb.style.borderColor = ""
+})
+
+
+    
+    
